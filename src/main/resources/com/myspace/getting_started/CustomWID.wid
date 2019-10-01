@@ -1,0 +1,13 @@
+[
+  [
+    "name" : "CustomTask", 
+    "parameters" : [ 
+        "Message" : new StringDataType() 
+    ], 
+    "results" : [ 
+        "Result" : new StringDataType() 
+    ], 
+    "displayName" : "Custom WIH Task", 
+    "icon" : "" 
+  ]
+]
